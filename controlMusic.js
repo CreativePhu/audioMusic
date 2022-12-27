@@ -172,6 +172,9 @@ var app = {
 
     tuDongChuyenBaiMain: function(){
         app.indexMusic+=1
+        if(app.indexMusic > app.listMusic.length-1){
+            app.indexMusic = 0
+        }
         app.layNhacTheoIndex()
         audio.play()
         app.selectListMS()
