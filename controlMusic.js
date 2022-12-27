@@ -16,56 +16,56 @@ var app = {
         {
             name: 'Đi Đi Đi',
             singer: 'Remix',
-            linkImg: './imgMusic/maxresdefault.jpg',
-            linkMusic: './mp3Music/Mashup Nevada x Đi Đi Đi _ Daniel Mastro Mashup Remix _ Bản Mashup Hay Nhất 2018_Ly4pp6um_mw.mp3'
+            linkImg: 'https://creativephu.github.io/audioMusic/imgMusic/maxresdefault.jpg',
+            linkMusic: 'https://creativephu.github.io/audioMusic/mp3Music/Mashup Nevada x Đi Đi Đi _ Daniel Mastro Mashup Remix _ Bản Mashup Hay Nhất 2018_Ly4pp6um_mw.mp3'
         },
         {
             name: 'Never Die',
             singer: 'LMHT',
-            linkImg: './imgMusic/large_1594282980303.jpg',
-            linkMusic: './mp3Music/Legends Never Die (ft. Against The Current) _ Worlds 2017 - League of Legends_r6zIGXun57U.mp3'
+            linkImg: 'https://creativephu.github.io/audioMusic/imgMusic/large_1594282980303.jpg',
+            linkMusic: 'https://creativephu.github.io/audioMusic/mp3Music/Legends Never Die (ft. Against The Current) _ Worlds 2017 - League of Legends_r6zIGXun57U.mp3'
         },
         {
             name: 'That Girl',
             singer: 'TickTok',
-            linkImg: './imgMusic/sddefault (1).jpg',
-            linkMusic: './mp3Music/[Vietsub + Kara] That Girl - Olly Murs (lyrics) - Tik Tok_f_LgWgzCPnQ.mp3'
+            linkImg: 'https://creativephu.github.io/audioMusic/imgMusic/sddefault (1).jpg',
+            linkMusic: 'https://creativephu.github.io/audioMusic/mp3Music/[Vietsub + Kara] That Girl - Olly Murs (lyrics) - Tik Tok_f_LgWgzCPnQ.mp3'
         },
         {
             name: 'Rise',
             singer: 'LMHT',
-            linkImg: './imgMusic/sddefault (2).jpg',
-            linkMusic: './mp3Music/RISE (ft. The Glitch Mob, Mako, and The Word Alive) _ Worlds 2018 - League of Legends_fB8TyLTD7EE.mp3'
+            linkImg: 'https://creativephu.github.io/audioMusic/imgMusic/sddefault (2).jpg',
+            linkMusic: 'https://creativephu.github.io/audioMusic/mp3Music/RISE (ft. The Glitch Mob, Mako, and The Word Alive) _ Worlds 2018 - League of Legends_fB8TyLTD7EE.mp3'
         },
         {
             name: 'Top 15 TickTok',
             singer: 'TickTok',
-            linkImg: './imgMusic/ticktok.png',
-            linkMusic: './mp3Music/Tik Tok Hits - 15 Bản Nhạc Tik Tok Tiếng Anh (US - UK) Gây Nghiện Hay _ Viral songs on tiktok_DejaM9DS-Zw.mp3'
+            linkImg: 'https://creativephu.github.io/audioMusic/imgMusic/ticktok.png',
+            linkMusic: 'https://creativephu.github.io/audioMusic/mp3Music/Tik Tok Hits - 15 Bản Nhạc Tik Tok Tiếng Anh (US - UK) Gây Nghiện Hay _ Viral songs on tiktok_DejaM9DS-Zw.mp3'
         },
         {
             name: 'Bao Lâu Ta Lại Yêu Một Người',
             singer: 'Doãn Hiếu',
-            linkImg: './imgMusic/sddefault.jpg',
-            linkMusic: './mp3Music/Bao Lâu Ta Lại Yêu Một Người l Doãn Hiếu_y_-1uiB2T9Y.mp3'
+            linkImg: 'https://creativephu.github.io/audioMusic/imgMusic/sddefault.jpg',
+            linkMusic: 'https://creativephu.github.io/audioMusic/mp3Music/Bao Lâu Ta Lại Yêu Một Người l Doãn Hiếu_y_-1uiB2T9Y.mp3'
         },
         {
             name: 'THÍCH ANH RỒI ĐẤY',
             singer: 'HANNIE',
-            linkImg: './imgMusic/sddefault (3).jpg',
-            linkMusic: './mp3Music/HANNIE - THÍCH ANH RỒI ĐẤY _ Official Music Video_o7zkZek9hww.mp3'
+            linkImg: 'https://creativephu.github.io/audioMusic/imgMusic/sddefault (3).jpg',
+            linkMusic: 'https://creativephu.github.io/audioMusic/mp3Music/HANNIE - THÍCH ANH RỒI ĐẤY _ Official Music Video_o7zkZek9hww.mp3'
         },
         {
             name: 'Darkside',
             singer: 'Alan Walker',
-            linkImg: './imgMusic/sddefault (4).jpg',
-            linkMusic: './mp3Music/Alan Walker - Darkside (feat. Au_Ra and Tomine Harket)_M-P4QBt-FWw.mp3'
+            linkImg: 'https://creativephu.github.io/audioMusic/imgMusic/sddefault (4).jpg',
+            linkMusic: 'https://creativephu.github.io/audioMusic/mp3Music/Alan Walker - Darkside (feat. Au_Ra and Tomine Harket)_M-P4QBt-FWw.mp3'
         },
         {
             name: 'SAU TẤT CẢ',
             singer: 'ERIK',
-            linkImg: './imgMusic/sddefault (5).jpg',
-            linkMusic: './mp3Music/ERIK - SAU TẤT CẢ _ Official Music Video_wHF3Jv6Gk2o.mp3'
+            linkImg: 'https://creativephu.github.io/audioMusic/imgMusic/sddefault (5).jpg',
+            linkMusic: 'https://creativephu.github.io/audioMusic/mp3Music/ERIK - SAU TẤT CẢ _ Official Music Video_wHF3Jv6Gk2o.mp3'
         }
     ],
 
