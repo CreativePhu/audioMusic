@@ -1,0 +1,67 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <link rel="stylesheet" href="./linkCss.css">
+</head>
+<body>
+    <div class="container">
+        <div class="main">
+            <audio src="" id="audioMain"></audio>
+            <input type="checkbox" id="checkList">
+            <div class="listMusic">
+                <div class="listMusic_header">
+                    <div class="iconListMS">
+                        <img src="./imgControlMusic/menu.png" class="icon">
+                    </div>
+                    <div class="contentListMS">
+                        <h3 class="titleListMS">DANH SÁCH BÀI HÁT</h3>
+                    </div>
+                </div>
+                <div class="listMusic_footer"></div>
+            </div>
+            <div class="appMusic">
+                <div class="appMusic_header">
+                    <h5 class="nameSinger">Tác Giả</h5>
+                    <br>
+                    <h1 class="nameMusic">Tên Bài Hát</h1>
+                </div>
+                <div class="appMusic_cd">
+                    <div class="cdMusic">
+                        <img src="./imgMusic/119084296_1699885373520720_3598879578635636867_n.jpg" class="imgcdMusic">
+                    </div>
+                </div>
+                <div class="appMusic_control">
+                    <div class="control control_reload">
+                        <img src="./imgControlMusic/reload.png" class="reload">
+                    </div>
+                    <div class="control control_forward">
+                        <img src="./imgControlMusic/fast-forward.png" class="forward">
+                    </div>
+                    <div class="control control_play_pause">
+                        <img src="./imgControlMusic/play.png" class="play">
+                        <img src="./imgControlMusic/pause.png" class="pause">
+                    </div>
+                    <div class="control control_rewind">
+                        <img src="./imgControlMusic/rewind.png" class="rewind">
+                    </div>
+                    <div class="control control_random">
+                        <img src="./imgControlMusic/random.png" class="random">
+                    </div>
+                </div>
+                <div class="scrollMusic">
+                    <input type="range" id="currenTimeMusic" min="0" value="0">
+                </div>
+                <div class="timeMusic">
+                    <p class="timeLeft">00:00</p>
+                    <p class="timeRight">00:00</p>
+                </div>
+            </div>
+        </div>
+    </div>
+    <script src="./controlMusic.js"></script>
+</body>
+</html>
