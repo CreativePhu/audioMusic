@@ -241,7 +241,7 @@ var app = {
 
 
     suKienThanhTuaNhac: function(){
-        thanhTua.onclick = function(){
+        thanhTua.onchange = function(){
             audio.currentTime = this.value
         }
     },
